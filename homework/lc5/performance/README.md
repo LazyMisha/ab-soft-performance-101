@@ -1,0 +1,8 @@
+- install jdk
+- install scala sdk 2.12.8
+- open cmd
+- cd to the project
+- run 'mvn scala:run -DmainClass=Engine'
+- press Enter
+- wait for finish
+- see report '/target/gatling/*'
