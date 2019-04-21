@@ -1,0 +1,10 @@
+{
+  "simulation": "com.project.WorkLoadFlowSimulation",
+  "simulationId": "workloadflowsimulation",
+  "start": 1555187229909,
+  "description": "",
+  "scenarios": ["Home Page -> All Products -> Product Details", "Home Page -> All Products two times -> Product Details two times", "Home Page -> All Products -> Product Details - Add five Products to Cart -> View Cart - Checkout"],
+  "assertions": [
+
+  ]
+}
